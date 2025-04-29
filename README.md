@@ -4,8 +4,24 @@ Hi 👋 My name is Ilya Ryzhkov
 Frontend developer
 ------------------
 
-* 🌍  I'm based in Россия
+* 🌍  I'm based in Russia
 * ✉️  You can contact me at [imeliaslake@gmail.com](mailto:imeliaslake@gmail.com)
+
+# About Me
+
+Hi there! 👋  
+I'm a Junior Frontend Developer passionate about building modern and efficient web applications.
+
+🔹 I work primarily with JavaScript (ES6+), React, and Redux Toolkit.  
+🔹 I have hands-on experience with REST APIs, WebSocket communication, form handling with Formik and Yup, and multilingual support with i18next.  
+🔹 I pay strong attention to clean architecture, responsive UI, and user-friendly experience.
+
+🌱 I'm constantly learning new technologies and best practices to become a better developer.  
+🤝 I enjoy working in a team environment and believe in continuous self-development.  
+🚀 I'm looking for opportunities to start my professional career in Frontend development and to contribute to exciting projects.
+
+Let's connect and build something great together!
+
 
 ### Skills
 
